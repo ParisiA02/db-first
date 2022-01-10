@@ -1,0 +1,10 @@
+Nome Tabella	auto_usate		
+			
+Id			int(8) PRIMARY KEY AUTO_INCREMENT
+marca			varchar(60)		
+modello			varchar(60)		
+data_immatricolazione	date		
+targa			varchar(60)		
+numero_porte		varchar(60)		
+km_percorsi		varchar(60)		
+alimentazione		varchar(60)		
